@@ -3,6 +3,13 @@
 **Soonishly** is a minimal countdown timer app built with Flutter.  
 No ads. No login. No nonsense. Just clean offline countdowns.
 
+<p align="center">
+  <img src="screenshots/1.jpg" width="200"/>
+  <img src="screenshots/2.jpg" width="200"/>
+  <img src="screenshots/3.jpg" width="200"/>
+  <img src="screenshots/4.jpg" width="200"/>
+</p>
+
 ---
 
 ## ✨ Features
